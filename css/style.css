@@ -27,8 +27,6 @@ body {
 
 /*Productos*/
 
-
-
 .products .slide img {
     height: 250px;
     transform: scale(0.5);
@@ -87,7 +85,7 @@ body {
 }
 
 .products-preview-container .product-preview .bi-x-circle:hover {
-    color: #ed2d34;
+    color: #2e8605;
 }
 
 .products-preview-container .product-preview .image {
@@ -121,7 +119,7 @@ body {
 }
 
 .products-preview-container .product-preview .content .stars i {
-    color: #ed2d34;
+    color: #ddc80a;
 }
 
 .products-preview-container .product-preview .content .stars span {
@@ -185,7 +183,7 @@ body {
 } 
 
  #seccion-contacto{
-    background-color: #dc3545;
+    background-color: #dacc16;
     min-height:500px;
     position:relative;
 }
@@ -205,8 +203,6 @@ body {
 }
 
 
-
-
 /*FOOTER*/
 
 footer {
@@ -221,7 +217,6 @@ footer p{
 }
 
 /*MEDIA QUERIES*/
-
 
 @media (max-width:768px) {
 
